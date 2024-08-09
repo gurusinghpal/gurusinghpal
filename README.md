@@ -81,12 +81,4 @@ Explore some of my favorite projects:
 3. [Object Detection using MobileNET](https://github.com/gurusinghpal/ObjectDetection-MobileNet)
 4. [Driver Drowsiness Detection](https://github.com/gurusinghpal/DriverDrowsiness)
 
-Feel free to explore the repositories and provide your valuable feedback.
-
-## 📫 How to Reach Me
-
-Let's connect! You can find me on:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guru-singh-pal/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gurusinghpal)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gurusingh2585@gmail.com)
+Feel free to explore the repositories and provide your valuable feedback!
