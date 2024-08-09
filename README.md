@@ -9,6 +9,18 @@
  <!-- Replace with an animated graphic -->
 
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  
+  <div id="badges" align = "center">
+  <a href="https://www.linkedin.com/in/guru-singh-pal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/guru.exe._">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:gurusingh2585@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 ## 👨‍💻 About Me
 
@@ -22,7 +34,7 @@ I have honed my skills in various programming languages and technologies, and I 
 - **Node.js**: Developing robust and scalable back-end services.
 - **Python**: Leveraging data science and machine learning libraries.
 
-[![](https://visitcount.itsvg.in/api?id=gurusinghpal&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+<img src="https://komarev.com/ghpvc/?username=gurusinghpal&style=flat-square&color=blue" alt=""/>
 
 ## 🚀 Tech Stack
 
@@ -58,6 +70,7 @@ Here’s a quick look at my tech stack:
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gurusinghpal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gurusinghpal&theme=dark&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkapoor0001&layout=compact&theme=vision-friendly-dark)](https://github.com/akashkapoor0001/github-readme-stats)
 
 ## 🔗 My Projects
 
