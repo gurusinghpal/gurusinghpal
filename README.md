@@ -8,6 +8,8 @@
 
  <!-- Replace with an animated graphic -->
 
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 ## 👨‍💻 About Me
 
 Hello! I'm **Hetashi Guru Singh Pal**, a passionate 4th-year student at Chandigarh University, pursuing a bachelor's degree in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning. My journey in the tech world has been an exciting blend of problem-solving, coding, and continuous learning.
@@ -19,6 +21,8 @@ I have honed my skills in various programming languages and technologies, and I 
 - **JavaScript & React.js**: Crafting dynamic front-end experiences.
 - **Node.js**: Developing robust and scalable back-end services.
 - **Python**: Leveraging data science and machine learning libraries.
+
+[![](https://visitcount.itsvg.in/api?id=gurusinghpal&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 
 ## 🚀 Tech Stack
 
@@ -50,6 +54,10 @@ Here’s a quick look at my tech stack:
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gurusinghpal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gurusinghpal&theme=dark&hide_border=false)<br/>
 
 ## 🔗 My Projects
 
