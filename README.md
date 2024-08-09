@@ -1,7 +1,12 @@
 
 # Welcome to My GitHub! 👋
 
-![Animated Banner](https://your-image-url-here) <!-- Replace with an animated graphic -->
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB1bTJlbnc5YnF1MHlnOGtndDdheHl5Z3poeDE3ODFtdmw5ZnF4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" width="400"/>
+</p>
+
+ <!-- Replace with an animated graphic -->
 
 ## 👨‍💻 About Me
 
@@ -50,9 +55,10 @@ Here’s a quick look at my tech stack:
 
 Explore some of my favorite projects:
 
-1. [Project Name 1](https://github.com/Hetashi/Project-1)
-2. [Project Name 2](https://github.com/Hetashi/Project-2)
-3. [Project Name 3](https://github.com/Hetashi/Project-3)
+1. [Biometric Student Attendance System](https://github.com/gurusinghpal/BiometricStudenceAttendanceSystem)
+2. [Geo-Tagging of Public Cameras](https://github.com/gurusinghpal/RJPOLICE_HACK_1096_WhiteHatHackers_6)
+3. [Object Detection using MobileNET](https://github.com/gurusinghpal/ObjectDetection-MobileNet)
+4. [Driver Drowsiness Detection](https://github.com/gurusinghpal/DriverDrowsiness)
 
 Feel free to explore the repositories and provide your valuable feedback.
 
@@ -60,6 +66,6 @@ Feel free to explore the repositories and provide your valuable feedback.
 
 Let's connect! You can find me on:
 
-- **LinkedIn**: [Hetashi Guru Singh Pal](https://www.linkedin.com/in/hetashi)
-- **GitHub**: [Hetashi](https://github.com/Hetashi)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guru-singh-pal/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gurusinghpal)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gurusingh2585@gmail.com)
