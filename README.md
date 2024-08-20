@@ -20,7 +20,7 @@
   <a href="mailto:gurusingh2585@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="[https://your-portfolio-link.com](https://gurusingh-portfolio.vercel.app/)">
+  <a href="https://gurusingh-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
